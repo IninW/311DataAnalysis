@@ -17,7 +17,10 @@ slides-YWu - slides in presentation
 3. Graphs: 
 visualization results - all graphs produced in R
 
-*If you want to run codes, download data from here: (data so large to upload)
-these two file was used in 'DataClean&Distribution-YWu'-loading data, and 'Efficiency-YWu' -loading data, respectively
+4. dataset: 
+'zipcode' - dataset produced from ACS census data and zipcode location data, could be load directly in maps-YWu code
+original data to upload, download here: 
 'MyLA311_Service_Request_Data_2016' - https://data.lacity.org/A-Well-Run-City/MyLA311-Service-Request-Data-2016/ndkd-k878
 '311_Call_Center_Tracking_Data.csv' - https://data.lacity.org/dataset/311-Call-Center-Tracking-Data/vmc3-stgb
+*these two file was used in 'DataClean&Distribution-YWu'-loading data, and 'Efficiency-YWu' -loading data, respectively
+
